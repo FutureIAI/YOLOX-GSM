@@ -1,4 +1,4 @@
-## Yolox-GA
+## Yolox-GSM
 ## 所需环境
 pytorch==1.2.0
 
